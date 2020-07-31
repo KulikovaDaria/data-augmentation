@@ -1,0 +1,37 @@
+{
+  "cars": [
+    {
+      "image": "..\\dataset\\c4.png",
+      "mask": "..\\dataset\\c4_m.png"
+    },
+    {
+      "image": "..\\dataset\\c9.png",
+      "mask": "..\\dataset\\c9_m.png"
+    },
+    {
+      "image": "..\\dataset\\c8.png",
+      "mask": "..\\dataset\\c8_m.png"
+    }
+  ],
+  "roads": [
+    {
+      "image": "..\\dataset\\r13.jpg",
+      "mask": [
+        "..\\dataset\\r13_m.png",
+      ]
+    },
+    {
+      "image": "..\\dataset\\r12.jpg",
+      "mask": [
+        "..\\dataset\\r12_m.png",
+        "..\\dataset\\r12_m3.png"
+      ]
+    },
+    {
+      "image": "..\\dataset\\r15.jpg",
+      "mask": [
+        "..\\dataset\\r15_m.png"
+      ]
+    }
+  ]
+}
